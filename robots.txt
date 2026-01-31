@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arpankaphle-edu.github.io/sitemap.xml
+Sitemap: https://arpankaphle.com/sitemap.xml
